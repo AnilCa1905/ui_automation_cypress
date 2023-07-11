@@ -53,6 +53,4 @@ npm run test
 
 
  
--   Unzip the downloaded "**test-run-reports**" and open the "_test_report.html_" to view
-    the run report. ![final_report](./assets/final_report.png)
-    ![newman_report](./assets/newman_report.png)
+
